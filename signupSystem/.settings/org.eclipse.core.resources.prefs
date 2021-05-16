@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/signupSystem/Main.java=UTF-8
+encoding//src/signupSystem/business/concretes/AuthManager.java=UTF-8
+encoding//src/signupSystem/business/concretes/UserManager.java=UTF-8
+encoding//src/signupSystem/core/verifications/EmailVerificationManager.java=UTF-8
